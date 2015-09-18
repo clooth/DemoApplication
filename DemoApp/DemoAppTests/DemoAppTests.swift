@@ -1,15 +1,15 @@
 //
-//  DemoApplicationTests.swift
-//  DemoApplicationTests
+//  DemoAppTests.swift
+//  DemoAppTests
 //
 //  Created by Nico Hämäläinen on 18/09/15.
 //  Copyright © 2015 sizeof.io. All rights reserved.
 //
 
 import XCTest
-@testable import DemoApplication
+@testable import DemoApp
 
-class DemoApplicationTests: XCTestCase {
+class DemoAppTests: XCTestCase {
     
     override func setUp() {
         super.setUp()

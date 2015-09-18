@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  DemoApplication
+//  DemoApp
 //
 //  Created by Nico Hämäläinen on 18/09/15.
 //  Copyright © 2015 sizeof.io. All rights reserved.
